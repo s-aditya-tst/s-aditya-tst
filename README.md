@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Hey there, I'm Aditya, and this is my tech stack-
+1. Python
+2. SQL
+3. Flutter
+4. Git & Github
+   
 <!--
 **s-aditya-tst/s-aditya-tst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
